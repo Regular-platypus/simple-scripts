@@ -10,7 +10,7 @@ do
 
         if [ "$?" -eq 0 ]
         then
-            ssh user@192.168.29.100 "sudo shutdown now"
+            ssh user@192.168.29.100 "sudo shutdown"
         fi
     fi
 
