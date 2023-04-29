@@ -32,4 +32,4 @@ for filename in os.listdir(path):
         shutil.move(filepath, new_filepath)
 
 # show a message when the sorting is done
-print("Sorting is done! The sorted files can be found in the 'sorted_files' directory.")
+print("Sorting done! The sorted files can be found in the 'sorted_files' directory.")
