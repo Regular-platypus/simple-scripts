@@ -1,3 +1,4 @@
+#move all files to thier respective folders 
 import os
 import shutil
 
